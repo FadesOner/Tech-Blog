@@ -1,8 +1,8 @@
 :root {
-    --primary: #ffffff;
-    --secondary: #7C3E66;
-    --tertiary: #A5BECC;
-    --dark: #243A73;
+    --primary: #E3FCBF;
+    --secondary: #14C38E;
+    --tertiary: #B8F1B0;
+    --dark: #00FFAB;
     --border-radius: 0.2rem;
   }
   
@@ -20,12 +20,7 @@
     font-size: 16px;
   }
   
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1,h2,h3,h4,h5,h6 {
     font-family: "helvetica";
     font-weight: 700;
     margin: 0;
@@ -121,13 +116,13 @@
   
   .app-title {
     font-size: 3rem;
-    color: var(--primary);
+    color: white;
     padding: 0 10px;
     display: inline-block;
   }
   
   .app-title a {
-    color: var(--primary);
+    color: white;
   }
   
   .list-group {
@@ -139,7 +134,7 @@
     padding: 1%;
     border-radius: var(--border-radius);
     background-color: var(--dark);
-    color: var(--primary);
+    color: white;
     text-decoration: none;
   }
   
@@ -157,7 +152,7 @@
     text-decoration: none;
   }
   
-  /* CARDS */
+  
   .card {
     margin: 0 0 25px 0;
     border-radius: var(--border-radius);
