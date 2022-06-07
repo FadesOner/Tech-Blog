@@ -1,7 +1,7 @@
 # Tech-Blog
-Heroku
-  https://git.heroku.com/luis-tech-blog.git
-Github
+- Heroku
+  https://luis-tech-blog.herokuapp.com/
+- Github
   https://github.com/FadesOner/Tech-Blog
 
 # Description
